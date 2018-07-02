@@ -1,1 +1,2 @@
 quoteServiceURL: http://quote-service-qa.cfapps.io/quote
+someProperty: this_is_qa_property
